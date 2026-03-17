@@ -1,3 +1,4 @@
+// App Meteo — sviluppata durante il corso React Native
 import { useState } from "react";
 import { Text, TextInput, View } from "react-native";
 import Bottone from "../components/Bottone";
